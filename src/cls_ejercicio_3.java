@@ -11,7 +11,8 @@ public class cls_ejercicio_3 {
 	String nombre = "Alicia";
 	String apellido = "Tarifa";
 	int edad = 35; 
-	public static void main(String[] args) {
+	
+	public void resultadoE3() {
 	
 	// String 1nombre = "Alicia"; 
 	/* --> Es un identificador inválido porque comienza con el número 1
@@ -24,7 +25,8 @@ public class cls_ejercicio_3 {
 
 
         
-	System.out.println("Alicia");
+	System.out.println(nombre);
 	System.out.println("Tarifa");
 	System.out.println("35");
-}}
+	}
+}

@@ -17,8 +17,7 @@
 
 public class cls_ejercicio_2 {
 	
-	public void consola() {
-				
+	public void resultadoE2() {	
 		System.out.println("Hora");
 		System.out.println("de");
 		System.out.println("Comer");
